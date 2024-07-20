@@ -1,8 +1,10 @@
 <div align="center">
-    <h1>Movie App</h1>
+    <h1>Movie App with Modular Architecture</h1>
 </div>
 
 ## Overview
+
+- Minimum SDK level 24
 
 - Built entirely in [Kotlin](https://kotlinlang.org/) with [Coroutines](https://developer.android.com/kotlin/coroutines) for efficient asynchronous programming.
   
