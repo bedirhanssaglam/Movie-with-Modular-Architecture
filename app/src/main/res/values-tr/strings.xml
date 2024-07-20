@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="title_home">Ana sayfa</string>
+    <string name="posterpath">posterPath</string>
+    <string name="something_went_wrong">Bir şeyler ters gitti!</string>
+    <string name="search">Ara</string>
+    <string name="category">Kategori</string>
+    <string name="settings">Ayarlar</string>
+    <string name="dark_mode">Karanlık Mod</string>
+</resources>

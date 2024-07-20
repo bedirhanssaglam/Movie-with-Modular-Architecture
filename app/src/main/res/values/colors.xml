@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="outerSpace">#ff33393E</color>
+    <color name="mineShaft">#ff252525</color>
+    <color name="dodgerBlue">#ff00BBFF</color>
+    <color name="malibu">#ff55CCF7</color>
+    <color name="grey">#ffC2C2C2</color>
+    <color name="mischka">#ffDAD9DE</color>
+    <color name="paleSky">#ff6E7278</color>
+    <color name="shark">#ff222426</color>
+    <color name="bottom_nav_background">#FFFFFF</color>
+    <color name="bottom_nav_item_active">#FF5722</color>
+    <color name="bottom_nav_item_inactive">#757575</color>
+</resources>
