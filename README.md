@@ -48,6 +48,8 @@
 
 The Movie App follows the MVVM architecture pattern along with the Repository pattern, adhering to [Google's recommended architecture](https://developer.android.com/topic/architecture).
 
+And it is explained in detail in this article: [Modular Architecture in Android: An Analysis from a Movie App](https://medium.com/@bedirhanssaglam/modular-architecture-in-android-an-analysis-from-a-movie-app-ae55a26bda8f)
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/edcedfc7-52b3-46d9-b236-4fa972e71148" alt="Architecture Diagram">
 </div>
